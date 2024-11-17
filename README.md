@@ -1,8 +1,5 @@
 ## Hi there 👋
-🚀 About Me
-🎓 Graduate Student: M.S. in Data Science, Colorado School of Mines (2024–2026).
-📚 Dual Bachelor's Degrees: Computer Science & Mechanical Engineering.
-🌟 Passionate About: Machine Learning, Real-Time Systems, Robotics, and Aerospace Applications.
+Welcome to my GitHub! I'm currently a graduate CS student at the Colorado School of Mines with a strong passion for solving complex problems through innovative computational methods. My work lies at the intersection of Machine Learning, Signal Processing, and Algorithm Development, with applications in fields like geophysics, advanced manufacturing, and intelligent systems.
 <!--
 **scast3/scast3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
