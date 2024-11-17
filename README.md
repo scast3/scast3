@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+🚀 About Me
+🎓 Graduate Student: M.S. in Data Science, Colorado School of Mines (2024–2026).
+📚 Dual Bachelor's Degrees: Computer Science & Mechanical Engineering.
+🌟 Passionate About: Machine Learning, Real-Time Systems, Robotics, and Aerospace Applications.
 <!--
 **scast3/scast3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
