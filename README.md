@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub! I'm currently a graduate CS student at the Colorado School of Mines with a strong passion for solving complex problems through innovative computational methods. My work lies at the intersection of Machine Learning, Signal Processing, and Algorithm Development, with applications in fields like geophysics, advanced manufacturing, and intelligent systems.
+Welcome to my GitHub! I'm currently a graduate CS student at the Colorado School of Mines with a strong interest in computer engineering.
 <!--
 **scast3/scast3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
