@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub! I'm currently a Master's CS student with an interest in computer engineering, embedded systems and AI. 
+I'm currently a CS student with an interest in computer engineering, embedded systems and AI. 
 <!--
 **scast3/scast3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
