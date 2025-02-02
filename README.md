@@ -1,4 +1,4 @@
-- Hello, I am Santiago!
+Hello, I am Santiago, a CS student!
 - My interests lie in computer engineering, embedded systems, and AI
 - In my free time, I like to ski, play chess, and go to the gym
 - I am proficient in C, C++, Python, Verilog, Java, and Matlab
