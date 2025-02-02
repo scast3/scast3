@@ -1,5 +1,7 @@
-## Hi there 👋
-I'm currently a CS student with an interest in computer engineering, embedded systems and AI. 
+- Hello, I am Santiago!
+- My interests lie in computer engineering, embedded systems, and AI
+- In my free time, I like to ski, play chess, and go to the gym
+- I am proficient in C, C++, Python, Verilog, Java, and Matlab
 <!--
 **scast3/scast3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
