@@ -1,4 +1,4 @@
 Hello, I am Santiago!
-- Aspiring Low-Level Programmer/Computer Engineer
-- Interested in the fields of Microcontroller Software, Wireless Communications, and FPGA Design
-- I am proficient in C, C++, Python, Verilog, VHDL, Matlab, as well as developing in machine-level languages
+- Master's in Electrical Engineering with a Bachelor's in Computer Science
+- Interested in the fields of Embedded Systems, Digital Signal Processing, and FPGA Design
+- Previous work experience in Software Engineering, Data Science, and Wireless Communications
