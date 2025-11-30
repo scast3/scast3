@@ -1,4 +1,6 @@
-Hello, I am Santiago!
-- Master's in Electrical Engineering with a Bachelor's in Computer Science
-- Interested in the fields of Embedded Systems, Digital Signal Processing, and FPGA Design
-- Previous work experience in Software Engineering, Data Science, and Wireless Communications
+# Hi, I am Santiago
+- I like computers
+- My favorite hobbies are skiing, playing chess, and rotting on instragram reels
+- M.S. EE + B.S. CS with work experience in SWE, DSP, and Wireless Comms
+- I like working on projects in Computer Engineering and FPGA Digital Design
+- Reach out if you think my projects are cool
